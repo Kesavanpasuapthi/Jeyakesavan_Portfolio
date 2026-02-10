@@ -62,7 +62,7 @@ const skills = {
  "Workflow": [
    "Modeling",
    "Lighting",
-   "3D Animation"
+   "3D Animation",
    "Look Development",
    "Compositing",
    "UV Unwrapping",
@@ -426,6 +426,7 @@ const App = () => {
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<App />);
+
 
 
 
