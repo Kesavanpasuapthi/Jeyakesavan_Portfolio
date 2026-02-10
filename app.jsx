@@ -121,7 +121,7 @@ const Hero = () => {
         <div className="hero__meta">
           <div>
             <p className="hero__meta-label">Experience</p>
-            <p className="hero__meta-value">Fresher</p>
+            <p className="hero__meta-value">1 Year</p>
           </div>
           <div>
             <p className="hero__meta-label">Specialty</p>
@@ -426,6 +426,7 @@ const App = () => {
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<App />);
+
 
 
 
