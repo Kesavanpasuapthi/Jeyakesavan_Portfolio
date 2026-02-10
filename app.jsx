@@ -7,7 +7,7 @@ const projects = [
     tools: ["Blender"],
     images: [
       "./kitcheninterior1.png",
-      "./kitcheninterior2.png",
+      "./kitcheninterior2.jpeg",
       "./Stove_1.png",
       "./Stove_2.png",
       "./cupboard.png",
@@ -425,6 +425,7 @@ const App = () => {
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<App />);
+
 
 
 
